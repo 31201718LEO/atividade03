@@ -1,0 +1,38 @@
+.logo{
+    max-width: 50px;
+ }
+ .nav-item{
+    margin-left: 50px;
+ }
+ .nav-link:hover {
+   color: aliceblue;
+ }
+
+ form {
+    padding: 5px;
+ }
+ form label {
+ font-weight: bolder;    
+}
+
+form input:hover, select:hover, textarea:hover{
+    background-color: aliceblue;
+}
+
+form textarea{
+    resize: none;
+}
+
+.foto{
+    max-width: 360px;    
+}
+
+.habilidade{
+    max-width: 500px;   
+   
+}
+
+.projeto{
+    max-width: 500px;    
+}
+
